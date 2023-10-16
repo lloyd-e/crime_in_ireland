@@ -1,7 +1,7 @@
 
-# Crime in Ireland
+# Crime in Ireland - Excel dashboard project
 
-- This dashboard allows users to analyse reported crime in Ireland from 2003 to 2019.
+- This Excel dashboard allows users to analyse reported crime in Ireland from 2003 to 2019.
 - Crimes are displayed by region.
 - Users can zoom into any specific timeframe using the timeline.
 - Users can select one or more category of offence.
