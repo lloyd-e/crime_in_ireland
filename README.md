@@ -9,6 +9,11 @@
 - I have included a few interesting observations underneath the dashboard.
 - This dashboard may be useful for anyone wishing to gain insights into trends or patterns of crime within Ireland.
 
+## Excel skills showcased
+
+- Power Query
+- Pivot Tables
+
 ## Acknowledgements
 
  - [Crime in Ireland - Kaggle](https://www.kaggle.com/datasets/sameerkulkarni91/crime-in-ireland)
